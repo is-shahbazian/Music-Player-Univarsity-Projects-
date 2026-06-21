@@ -44,5 +44,5 @@ Take a look at the stunning visuals and intuitive interface of the app:
 
 ## 📥 Download & Installation
 
-To download the latest ready-to-install version directly onto your phone, head over to the [Releases](https://github.com/is-shahbazian/Music-Player-Univarsity-Projects-
-/releases) section on the right sidebar of this page and download the APK file.
+To download the latest ready-to-install version directly onto your phone, head over to the [Releases][(https://github.com/is-shahbazian/Music-Player-Univarsity-Projects-
+/releases) section on the right sidebar of this page and download the APK file.](https://github.com/is-shahbazian/Music-Player-Univarsity-Projects-/releases/tag/V1.0.0)
